@@ -1,5 +1,5 @@
 ## Auteur
-Nom de l'étudiant B
+Zayyan Burlot
 
 ## Auteur
 Litoz(Lilian Pouomogne)
